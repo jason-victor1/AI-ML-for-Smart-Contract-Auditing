@@ -155,4 +155,11 @@ Want to train your own AI model for **smart contract security scanning**? Follow
 ## **Final Thoughts 🚀**  
 - AI-powered auditing is **revolutionizing** smart contract security.  
 - Combining **ML, NLP, and Deep Learning** enhances **exploit detection**.  
-- **Hands-on practice** is the best way to master AI-driven security auditing.  
+- **Hands-on practice** is the best way to master AI-driven security auditing. 
+
+
+**Next Guide:** **"Blockchain Forensics & Tracking Stolen Funds"**
+- Real-world case studies (Euler Finance, Ronin Bridge) 
+- Using Chainalysis alternatives for fund tracking 
+- Monitoring transactions in real time (Forta, MistTrack) 
+- Preventing money laundering via Tornado Cash
